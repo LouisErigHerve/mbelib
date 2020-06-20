@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/szechyjs/mbelib.png?branch=master)](https://travis-ci.org/szechyjs/mbelib)
+[![Build Status](https://travis-ci.org/LouisErigHerve/mbelib.png?branch=master)](https://travis-ci.org/LouisErigHerve/mbelib)
 
 PATENT NOTICE
 
